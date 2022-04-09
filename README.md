@@ -1,3 +1,5 @@
+![](src/assets/image.png)
+
 🇧🇷
 ## Jogo da mémoria
 Projeito feito junto com o curso da [B7Web](https://b7web.com.br) com as seguintes tecnologias: 
