@@ -12,9 +12,7 @@ Projeito feito junto com o curso da [B7Web](https://b7web.com.br) com as seguint
 ## Usar 
 `npm run dev`
 
----
 ## Memory game
----
 
 🇺🇸
 
