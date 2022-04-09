@@ -11,11 +11,14 @@ Projeito feito junto com o curso da [B7Web](https://b7web.com.br) com as seguint
 ## Usar 
 `npm run dev`
 
+
+🇺🇸
+
 ## Memory game
 
 ---
 
-🇺🇸
+
 
 Project made along with the [B7Web] course (https://b7web.com.br) with the following technologies:
 
