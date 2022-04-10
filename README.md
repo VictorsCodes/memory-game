@@ -22,7 +22,7 @@ Projeito feito junto com o curso da [B7Web](https://b7web.com.br) com as seguint
 
 
 
-Project made along with the [B7Web] course (https://b7web.com.br) with the following technologies:
+Project made along with the [B7Web](https://b7web.com.br) course  with the following technologies:
 
 - [ReactJs](https://reactjs.org/)
 - [Styled-Components](https://styled-components.com/)
